@@ -1,8 +1,8 @@
 import requests
 from requests.auth import HTTPBasicAuth
 
-RAZORPAY_KEY_ID = "rzp_test_0sG9GaeyZZl8OV"
-RAZORPAY_KEY_SECRET = "pl3911fUchI0Xdm3394KCbqf"
+RAZORPAY_KEY_ID = "YOUR-TEST-KEY"
+RAZORPAY_KEY_SECRET = "YOUR-SECRET-KEY"
 
 auth = HTTPBasicAuth(RAZORPAY_KEY_ID, RAZORPAY_KEY_SECRET)
 
