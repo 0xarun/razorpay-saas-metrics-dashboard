@@ -12,7 +12,7 @@ A Python toolkit for simulating SaaS subscriptions and tracking business metrics
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/razorpay-saas-metrics-dashboard.git
+git clone https://github.com/0xarun/razorpay-saas-metrics-dashboard.git
 cd razorpay-saas-metrics-dashboard
 pip install requests
 ```
