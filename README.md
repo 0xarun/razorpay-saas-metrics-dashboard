@@ -35,7 +35,8 @@ RAZORPAY_KEY_SECRET = "your_test_key_secret"
 
 2. **Capture payment manually**:
    - Go to Razorpay Test Dashboard → Subscriptions
-   - Click "Charge this now" on the created subscription
+   - See Created Subscriptions
+   - Click "Start Subscription" on the created subscription
 
 3. **View metrics**:
    ```bash
